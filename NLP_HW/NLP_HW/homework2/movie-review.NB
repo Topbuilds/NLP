@@ -1,0 +1,22 @@
+
+action class parameters:
+Prior of this class: 0.571428571429
+word parameters list: 
+shoot: 1.0
+fly: 0.5
+love: 0.5
+couple: 0.25
+fast: 0.75
+fun: 0.5
+furious: 0.75
+
+comedy class parameters:
+Prior of this class: 0.428571428571
+word parameters list: 
+shoot: 0.333333333333
+fly: 0.666666666667
+love: 0.666666666667
+couple: 1.0
+fast: 0.666666666667
+fun: 1.0
+furious: 0.333333333333
